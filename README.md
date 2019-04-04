@@ -16,3 +16,10 @@ This game is inspired by [Devil Daggers](http://devildaggers.com/) and [PolyGod]
 ### What makes these inspirations unique
 * Devil Daggers is set on a small scale arena and its you verses the demons
 * Poly God has the Upgrade weapon mechanic so you can have one weapon with many different firing mode upgrades
+
+## Rules
+1. Collect souls from enemies to level up your weapon
+2. Beat your High Score and survive longer 
+
+## Modding 
+Time is subjective about this topic
