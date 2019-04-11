@@ -19,8 +19,10 @@ This game is inspired by [Devil Daggers](http://devildaggers.com/) and [PolyGod]
 * Poly God has the Upgrade weapon mechanic so you can have one weapon with many different firing mode upgrades
 
 ## Rules
-1. Collect souls from enemies to level up your weapon
-2. Beat your High Score and survive longer 
+ Collect souls from enemies to level up your weapon
+
+## Goal
+ Beat your High Score and survive longer 
 
 ## Modding 
 Time is subjective about this topic
