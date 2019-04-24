@@ -1,28 +1,8 @@
 ![Abyssal Arena](icon.png)
 
-making a small arcade shooter to know how to use Gdscript
 
-## Reference links for Godot 3.0
-* [Godot 3.0 Documentation](http://docs.godotengine.org/en/3.0/getting_started/step_by_step/index.html)
-* [Gdscript](http://docs.godotengine.org/en/3.0/getting_started/scripting/gdscript/index.html)
-* [2D](http://docs.godotengine.org/en/3.0/tutorials/2d/index.html)
-* [Physics](http://docs.godotengine.org/en/3.0/tutorials/physics/index.html)
-* [Animation](http://docs.godotengine.org/en/3.0/tutorials/animation/index.html)
-* [GUI](http://docs.godotengine.org/en/3.0/tutorials/gui/index.html)
-* [Debug](http://docs.godotengine.org/en/3.0/tutorials/debug/index.html)
+**having committed terrible atrocities you are banished from the mortal realm into the great void known as the abyss. condemned to a life of bloodshed and torment, slave to the very arena to which you are chained to.....** 
 
-## Inspirations
-This game is inspired by [Devil Daggers](http://devildaggers.com/) and [PolyGod](http://kraftedgames.com/polygod/)
+**there is no respite here, weary soul.... for the crowd bays for blood**
 
-### What makes these inspirations unique
-* Devil Daggers is set on a small scale arena and its you verses the demons
-* Poly God has the Upgrade weapon mechanic so you can have one weapon with many different firing mode upgrades
-
-## Rules
- Collect souls from enemies to level up your weapon
-
-## Goal
- Beat your High Score and survive longer 
-
-## Modding 
-Time is subjective about this topic
+This Project will be part of the [Fragment Jam](https://itch.io/jam/fragmentjam)
