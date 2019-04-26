@@ -5,4 +5,7 @@
 
 **there is no respite here, weary soul.... for the crowd bays for blood**
 
+Abyssal Arena is a game that takes the inspirations from devil daggers, quake and doom but on a different perspective
+
+
 This Project will be part of the [Fragment Jam](https://itch.io/jam/fragmentjam)
