@@ -1,12 +1,7 @@
 /// @description Basic Player Movement
 
-if keyboard_check(ord("A")) {
-    x-=4
-} else if keyboard_check(ord("D")) {
-    x+=4
-} else if keyboard_check(ord("S")) {
-    y+=4
-} else if keyboard_check(ord("W")) {
-y-=4
-}
-
+var player_speed = 4;
+var x_dir = keyboard_check(ord("D")) - keyboard_check(ord("A"));
+var y_dir = keyboard_check(ord("S")) - keyboard_check(ord("W"));
+x += x_dir * player_speed/2;
+y += y_dir * player_speed/2;
