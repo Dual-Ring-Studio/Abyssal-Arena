@@ -1,0 +1,12 @@
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Converting GML script: ${project_dir}\objects\obj_player\Create_0.gml
+Converted description /// @description Intializing the player object
+
+Converting GML script: ${project_dir}\objects\obj_player\Step_0.gml
+Converted description /// @description Basic Player Movement
+Converted string - line 3: 'A' -> "A"
+Converted string - line 5: 'D' -> "D"
+Converted string - line 7: 'S' -> "S"
+Converted string - line 9: 'W' -> "W"
+
+Game speed set to 30
